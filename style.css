@@ -1,0 +1,64 @@
+.heading {
+  width: 100%;
+  text-align: left;
+}
+
+.heading h3 {
+  color: white;
+  margin-left: 700px;
+  font-weight: bold;
+  font-size: 33px;
+  display: inline;
+}
+
+.heading button {
+  float: right;
+  border: 1px solid white;
+}
+
+.big_image {
+  width: 100%;
+}
+
+#canvas{
+    margin-top: 100px;
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+#start,
+#status,
+#restart {
+  font-size: 22px;
+  margin-left: 750px;
+}
+
+body {
+  align-items: center;
+  font-family: "Bangers", cursive;
+  font-family: "Fuzzy Bubbles", cursive;
+  font-family: "Indie Flower", cursive;
+  font-family: "Nunito Sans", sans-serif;
+  font-family: "Orbitron", sans-serif;
+  font-family: "Rubik", sans-serif;
+  font-family: "Shizuru", cursive;
+  font-family: "Staatliches", cursive;
+}
+
+#status {
+  margin-left: 750px;
+}
+
+h4 {
+  background-color: #f5f5f5;
+  line-height: 2;
+  margin: 0px;
+}
+
+.modal-dialog {
+  width: 70%;
+}
+
+.modal-body {
+  text-align: center;
+}
